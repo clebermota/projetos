@@ -1,10 +1,10 @@
 #Esse é um código
 
 ops = int(input("Escolha a operação: "))
-print("1 - soma")
-print("2 - subtração")
-print("3 - multiplicação")
-print("4 - divisão")
+print("soma")
+print("subtração")
+print("multiplicação")
+print("divisão")
 print()
 num1 = int(input("Insira um numero: "))
 print() 
